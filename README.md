@@ -1,6 +1,6 @@
 # redirect-to-a-new-address
 
-• Redirect to a new address using: rel=canonical  
+Redirect to a new address using: rel=canonical  
 
 ---
    
