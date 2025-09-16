@@ -1,10 +1,10 @@
 # redirect-to-a-new-address
 
-Redirect to a new address using: rel=canonical  
+• Redirect to a new address using: rel=canonical  
 
 ---
    
-#### 🏷️ GitHub Explore, topics:  
+#### GitHub Explore, topics:  
 [Website](https://github.com/topics/website?s=updated),
 [Static Website ](https://github.com/topics/static-website?s=updated),
 [Cloudflare Pages](https://github.com/topics/cloudflare-pages?s=updated),
