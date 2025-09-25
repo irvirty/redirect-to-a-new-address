@@ -15,7 +15,7 @@ Main license: CC BY-SA 4.0
   
 ---  
    
-#### GitHub Explore, topics:  
+## GitHub Explore, topics:  
 [Website](https://github.com/topics/website),
 [Static Website ](https://github.com/topics/static-website),
 [Cloudflare Pages](https://github.com/topics/cloudflare-pages),
