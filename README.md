@@ -4,6 +4,17 @@ Redirect to a new address using: rel=canonical
 
 ---
    
+## License:  
+Main license: CC BY-SA 4.0  
+  
+---  
+  
+## Download:
+  
+[Download ZIP](https://github.com/irvirty/redirect-to-a-new-address/archive/refs/heads/main.zip)
+  
+---  
+   
 #### GitHub Explore, topics:  
 [Website](https://github.com/topics/website),
 [Static Website ](https://github.com/topics/static-website),
